@@ -1,4 +1,7 @@
-# Usefull_Commands
+<img 
+     src="https://img.shields.io/badge/Made%20byMohammed%20Zeeshan-4a10fb?style=for-the-badge&logo=zeeshan&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Odoo-6b4762?style=for-the-badge&logo=odoo&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Pycharm-239120?style=for-the-badge&logo=pycharm&logoColor=white"/>
+
+# Usefull_Commands 
 All the commands, tips and tricks that will be usefull for developers, designers, non developers on linux, pycharm, windows etc
 
 # Ubuntu Tips, Tricks and Commands
@@ -33,3 +36,5 @@ Note: Prefer SQL whene dealing with large data since sql is faster than ORM, don
 6. `self.env.cr.execute("""UPDATE res_partner SET mobile='123' WHERE id=5""")` (to Modify a Record)
 7. `self.env.cr.execute("""DELETE FROM res_partner WHERE id=5""")` (to Delete a Record)
 
+
+<!-- Add Any Tricks you know -->
