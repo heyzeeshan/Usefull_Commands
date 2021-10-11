@@ -38,3 +38,4 @@ Note: Prefer SQL whene dealing with large data since sql is faster than ORM, don
 
 
 <!-- Add Any Tricks you know -->
+
