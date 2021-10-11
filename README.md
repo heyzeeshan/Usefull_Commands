@@ -35,6 +35,7 @@ Note: Prefer SQL whene dealing with large data since sql is faster than ORM, don
 5. `self.env.cr.execute(“INSERT INTO res_partner(name) VALUES(‘ABC’)”)` (to Create a Record)
 6. `self.env.cr.execute("""UPDATE res_partner SET mobile='123' WHERE id=5""")` (to Modify a Record)
 7. `self.env.cr.execute("""DELETE FROM res_partner WHERE id=5""")` (to Delete a Record)
+8. `update res_users set password='123' where login='admin';` (Change password if password forgot)
 
 
 <!-- Add Any Tricks you know -->
