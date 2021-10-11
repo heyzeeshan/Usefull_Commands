@@ -21,4 +21,15 @@ All the commands, tips and tricks that will be usefull for developers, designers
 17. `ctrl + u` (to delete whole line from terminal)
 18. `ctrl + a` or `ctrl + e` (to move start and end of command in terminal)
 19. `ll` (to show content of directory with access writes)
-20. 
+
+
+# SQL Commands general, for odoo specific also.
+Note: Prefer SQL whene dealing with large data since sql is faster than ORM, dont use SQL everywhere since sql ignore access rights and more
+1. `self.env.cr.execute(“””SELECT * FROM res_partner”””)` (This command will select all the records from partner, we can execute any sql query using cr.execute)
+2. `self.env.cr.fetchall()` (Fetchall will give you matching records in the form of a list of tuples.)
+3. `self.env.cr.fetchone()` (same as fetchall but show only one record)
+4. `self.env.cr.dictfetchone()` (same as fetchone but It will return only a single record in the form of dictionary)
+5. `self.env.cr.execute(“INSERT INTO res_partner(name) VALUES(‘ABC’)”)` (to Create a Record)
+6. `self.env.cr.execute("""UPDATE res_partner SET mobile='123' WHERE id=5""")` (to Modify a Record)
+7. `self.env.cr.execute("""DELETE FROM res_partner WHERE id=5""")` (to Delete a Record)
+
