@@ -1,5 +1,5 @@
 <img 
-     src="https://img.shields.io/badge/Made%20byMohammed%20Zeeshan-4a10fb?style=for-the-badge&logo=zeeshan&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Odoo-6b4762?style=for-the-badge&logo=odoo&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Pycharm-239120?style=for-the-badge&logo=pycharm&logoColor=white"/>
+     src="https://img.shields.io/badge/Made%20by%20Mohammed%20Zeeshan-4a10fb?style=for-the-badge&logo=zeeshan&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Odoo-6b4762?style=for-the-badge&logo=odoo&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Pycharm-239120?style=for-the-badge&logo=pycharm&logoColor=white"/>
 
 # Usefull_Commands 
 All the commands, tips and tricks that will be usefull for developers, designers, non developers on linux, pycharm, windows etc
