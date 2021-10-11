@@ -18,3 +18,7 @@ All the commands, tips and tricks that will be usefull for developers, designers
 14. free (display amount of free space)
 15. man command_name (to get detail information about the command)
 16. passwd user (to change password of the user)
+17. ctrl + u (to delete whole line from terminal)
+18. ctrl + a or ctrl + e (to move start and end of command in terminal)
+19. ll (to show content of directory with access writes)
+20. 
